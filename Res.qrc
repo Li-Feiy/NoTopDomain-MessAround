@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Settings.txt</file>
+        <file>res/logo.png</file>
+        <file>res/Light.css</file>
+        <file>res/Dark.css</file>
+        <file>res/Cyberpunk.css</file>
+        <file>res/CyberButton.png</file>
+        <file>res/CyberButton_hover.png</file>
+        <file>res/CyberButton_pressed.png</file>
+        <file>res/CyberButton_disabled.png</file>
+        <file>res/CyberTabWidget_border.png</file>
+        <file>res/CyberLineEdit.png</file>
+        <file>res/CyberFont.ttf</file>
+        <file>res/CyberCheckBox_unchecked.png</file>
+        <file>res/CyberCheckBox_checked.png</file>
+        <file>res/CyberGroupBox_border.png</file>
+        <file>res/XYBER.otf</file>
+        <file>res/CyberWebsiteButton.png</file>
+        <file>res/CyberWebsiteButton_hover.png</file>
+        <file>res/CyberWebsiteButton_pressed.png</file>
+        <file>res/CyberCheckBox_checked_hover.png</file>
+        <file>res/CyberCheckBox_unchecked_hover.png</file>
+        <file>res/CyberQSlider_handle_horizontal.png</file>
+        <file>res/CyberQSlider_handle_horizontal_hover.png</file>
+        <file>res/CyberQSlider_handle_horizontal_pressed.png</file>
+        <file>res/CyberQSlidersub-_agehorizontal.png</file>
+    </qresource>
+</RCC>

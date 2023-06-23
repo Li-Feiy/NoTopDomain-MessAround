@@ -1,0 +1,51 @@
+QPushButton {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QMainWindow {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QWidget {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QTabWidget::pane {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+#Home_Tab.QWidget {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+#Settings_Tab.QWidget {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QTabBar::tab {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QTabBar::tab:selected {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QTabBar::tab:hover {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QLineEdit {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QGroupBox {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QMenuBar {
+    font-family: "Microsoft YaHei UI Light";
+}
+
+QCheckBox {
+    font-family: "Microsoft YaHei UI Light";
+}

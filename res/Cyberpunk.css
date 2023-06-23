@@ -1,0 +1,181 @@
+QPushButton {
+    border-image: url(":///res/CyberButton.png");
+}
+
+QPushButton:hover {
+    border-image: url(":///res/CyberButton_hover.png");
+}
+
+QPushButton:pressed {
+    border-image: url(":///res/CyberButton_pressed.png");
+}
+
+QPushButton:disabled {
+    border-image: url(":///res/CyberButton_disabled.png");
+    color: rgba(13, 201, 214, 0.2);
+}
+
+QPushButton:clicked {
+    border-image: url(":///res/CyberButton_disabled.png");
+    color: rgba(13, 201, 214, 0.2);
+}
+
+#Luogu_Button.QPushButton {
+    font-family: "XYBER";
+    border-image: url(":///res/CyberWebsiteButton.png");
+}
+
+#Luogu_Button.QPushButton:hover {
+    border-image: url(":///res/CyberWebsiteButton_hover.png");
+}
+
+#Luogu_Button.QPushButton:pressed {
+    border-image: url(":///res/CyberWebsiteButton_pressed.png");
+}
+
+#CF_Button.QPushButton {
+    font-family: "XYBER";
+    border-image: url(":///res/CyberWebsiteButton.png");
+}
+
+#CF_Button.QPushButton:hover {
+    border-image: url(":///res/CyberWebsiteButton_hover.png");
+}
+
+#CF_Button.QPushButton:pressed {
+    border-image: url(":///res/CyberWebsiteButton_pressed.png");
+}
+
+#Github_Button.QPushButton {
+    font-family: "XYBER";
+    border-image: url(":///res/CyberWebsiteButton.png");
+}
+
+#Github_Button.QPushButton:hover {
+    border-image: url(":///res/CyberWebsiteButton_hover.png");
+}
+
+#Github_Button.QPushButton:pressed {
+    border-image: url(":///res/CyberWebsiteButton_pressed.png");
+}
+
+#FZQOJ_Button.QPushButton {
+    font-family: "XYBER";
+    border-image: url(":///res/CyberWebsiteButton.png");
+}
+
+#FZQOJ_Button.QPushButton:hover {
+    border-image: url(":///res/CyberWebsiteButton_hover.png");
+}
+
+#FZQOJ_Button.QPushButton:pressed {
+    border-image: url(":///res/CyberWebsiteButton_pressed.png");
+}
+
+QMainWindow {
+    border: none;
+    background-color: rgb(0, 43, 54);
+    color: aquamarine;
+}
+
+QWidget {
+    color: aquamarine;
+    font-family: "BigYoungMediumGB2.0";
+}
+
+QTabWidget::pane {
+    border: none;
+    background-color: rgb(0, 33, 43);
+    color: aquamarine;
+}
+
+#Home_Tab.QWidget {
+    background-color: rgb(0, 33, 43);
+    color: aquamarine;
+    border: none;
+}
+
+#Settings_Tab.QWidget {
+    background-color: rgb(0, 33, 43);
+    color: aquamarine;
+    border: none;
+}
+
+QTabBar::tab {
+    padding: 5px;
+    min-height: 10px;
+    min-width: 40px;
+    background-color: rgb(0, 43, 54);
+    color: aquamarine;
+}
+
+QTabBar::tab:selected {
+    border-image: url(":///res/CyberTabWidget_border.png");
+    background-color: rgb(0, 43, 54);
+    color: aquamarine;
+}
+
+QTabBar::tab:hover {
+    color: rgb(218, 255, 243);
+}
+
+QLineEdit {
+    border-image: url(":///res/CyberLineEdit.png");
+}
+
+QGroupBox {
+    border-image: url(":///res/CyberGroupBox_border.png");
+}
+
+QMenuBar {
+    background-color: rgb(0, 56, 71);
+}
+
+QMenuBar::item:selected {
+    background: rgba(13, 201, 214, 0.2);
+}
+
+QAction {
+    color: black;
+}
+
+QCheckBox::indicator:unchecked {
+    border-image: url(":///res/CyberCheckBox_unchecked.png");
+}
+
+QCheckBox::indicator:unchecked:hover {
+    border-image: url(":///res/CyberCheckBox_unchecked_hover.png");
+}
+
+QCheckBox::indicator:checked {
+    border-image: url(":///res/CyberCheckBox_checked.png");
+}
+
+QCheckBox::indicator:checked:hover {
+    border-image: url(":///res/CyberCheckBox_checked_hover.png");
+}
+
+QSlider::groove:horizontal {
+    border-image: url(":///res/CyberSlider.png");
+}
+
+QSlider::sub-page:horizontal {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-image: url(":///res/CyberQSlidersub-_agehorizontal.png");
+}
+
+QSlider::handle:horizontal {
+    width: 20px;
+    border-image: url(":///res/CyberQSlider_handle_horizontal.png");
+}
+
+QSlider::handle:horizontal:hover {
+    width: 20px;
+    border-image: url(":///res/CyberQSlider_handle_horizontal_hover.png");
+}
+
+QSlider::handle:horizontal:pressed {
+    width: 20px;
+    border-image: url(":///res/CyberQSlider_handle_horizontal_pressed.png");
+}
